@@ -7,11 +7,7 @@
 
 #
 
-<div align="center">
-<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="800" height="200" />
-</div>
-
-#
+### Tech Proficiencies:
 
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"><img src="./icons/js.png" alt="javascript logo" width="40" style="margin:0 5px"/></a>
@@ -25,3 +21,9 @@
     <a href="https://www.mongodb.com/docs/"><img src="./icons/database-storage.png" alt="database logo" width="40" style="margin:0 5px"/></a>
     <a href="https://ethereum.org/en/developers/docs/"><img src="./icons/ethereum.png" alt="ethereum logo" width="40" style="margin:0 5px"/></a>
 </p>
+
+#
+
+<div align="center">
+<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="800" height="200" />
+</div>
