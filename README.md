@@ -5,7 +5,11 @@
 - 💞️ Looking to collaborate on DeFi, NFT, play2earn startups.
 - 📫 How to reach me on twitter [@MrJettip](https://twitter.com/MrJettip)
 
-<br>
+#
+
+<div align="center">
+<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="500" height="200" />
+</div>
 
 #
 
