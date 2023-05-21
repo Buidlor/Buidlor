@@ -34,7 +34,7 @@
 
 <div align="center" style="">
     <img src="./myApps/wave.PNG" alt="wave App" width="400" style="margin:0 5px"/>
-    <img src="./myApps/currency.PNG" alt="currency exchange" width="400" style="margin:0 5px"/>
+    <img src="./myApps/Untitled video - Made with Clipchamp.gif" alt="petMate" width="470" style="margin:0 5px"/>
 </div>
 
 <div align="center" style="">
@@ -42,10 +42,12 @@
 </div>
 
 <div align="center" style="">
-    <img src="./myApps/uniswapclone.PNG" alt="uniswap clone" width="800" style="margin:0 5px"/>
+    <img src="./myApps/uniswapclone.PNG" alt="uniswap clone" width="900" style="margin:0 5px"/>
 </div>
 
 <div align="center" style="">
-    <img src="./myApps/donutk.PNG" alt="uniswap clone" width="800" style="margin:0 5px"/>
+    <img src="./myApps/donutk.PNG" alt="uniswap clone" width="900" style="margin:0 5px"/>
+    <img src="./myApps/pwGen.PNG" alt="password generator" width="900" style="margin:0 5px"/>
+    <img src="./myApps/currency.PNG" alt="currency swap" width="400" style="margin:0 5px"/>
 </div>
 
