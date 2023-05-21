@@ -1,5 +1,9 @@
 # 👋 Hi, I’m @Buidlor
 
+<div align="center">
+    <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="1000" height="200" />
+</div>
+
 - 👀 Passioned by blockchain technology, DeFi, NFT's, trading and investing.
 - 🌱 Currently learning web3 development and solidity
 - 💞️ Looking to collaborate on DeFi, NFT, play2earn startups.
@@ -24,6 +28,24 @@
 
 #
 
-<div align="center">
-<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="800" height="200" />
+
+
+### My Apps
+
+<div align="center" style="">
+    <img src="./myApps/wave.PNG" alt="wave App" width="400" style="margin:0 5px"/>
+    <img src="./myApps/currency.PNG" alt="currency exchange" width="400" style="margin:0 5px"/>
 </div>
+
+<div align="center" style="">
+   
+</div>
+
+<div align="center" style="">
+    <img src="./myApps/uniswapclone.PNG" alt="uniswap clone" width="800" style="margin:0 5px"/>
+</div>
+
+<div align="center" style="">
+    <img src="./myApps/donutk.PNG" alt="uniswap clone" width="800" style="margin:0 5px"/>
+</div>
+
