@@ -28,8 +28,6 @@
 
 #
 
-
-
 ### My Apps
 
 <div align="center" style="">
@@ -46,8 +44,8 @@
 </div>
 
 <div align="center" style="">
+    <img src="./myApps/hangman.gif" alt="hangman" width="900" style="margin:0 5px"/>
     <img src="./myApps/donutk.PNG" alt="uniswap clone" width="900" style="margin:0 5px"/>
     <img src="./myApps/pwGen.PNG" alt="password generator" width="900" style="margin:0 5px"/>
     <img src="./myApps/currency.PNG" alt="currency swap" width="400" style="margin:0 5px"/>
 </div>
-
